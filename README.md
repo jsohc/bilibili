@@ -10,7 +10,7 @@ SCHEDULE-BILIBILI
 
 **如果觉得好用，顺手点个 Star 吧 ❤**
 
-这个项目作为自己的学习项目，目前是用 JavaScript 进行实现的，后续可能会使用 TypeScript 来实现，也算是学习的一个路径。
+这个项目作为自己的学习项目，目前是用 JavaScript 进行实现的，后续可能会使用 TypeScript 来实现，也算是学习的一个路径。。。
 
 ## 功能列表
 
